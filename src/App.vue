@@ -1,6 +1,7 @@
 <template>
 <div>
   <h1>Vue Form 제작</h1>
+  <h2>Writen by 김영환</h2>
   <form v-on:submit.prevent="submitForm">
     <!-- <ID Input box></ID> -->
     <div>
